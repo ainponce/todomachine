@@ -29,6 +29,8 @@ form {
     padding: 12px;
     height: 96px;
     width: calc(100% - 25px);
+    border-radius: 1em;
+    resize: vertical;
   }
   
   textarea::placeholder {
